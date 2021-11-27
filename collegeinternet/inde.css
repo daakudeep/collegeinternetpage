@@ -1,0 +1,77 @@
+.body{
+    position:relative;
+    top: 150px;
+    left: 350px;
+    width: 700px;
+    size: 100px;
+    border: 2px solid rgb(35, 94, 202);
+    padding: 3px;
+    padding-top: 10px;
+    bor
+}
+
+.up{
+    background-color: rgb(5, 131, 180);
+    padding: 12px;
+}
+.logo1{
+    position: absolute;
+    top:3px;
+    left: 18px;
+    padding-top: 10px;  
+}
+.logo2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-top: 0px;
+}
+.logo3{
+    color: white;
+    text-align: center;
+    font-size: 14px;
+}
+.wlcm{
+    text-align: center;
+    font-size: 20px;
+    font-style:calibri;
+}
+.usrpwd{
+    text-align: center;
+    font-size: 19px;
+}
+.usr,.pwd{
+    
+    position: absolute;
+left:100px;
+}
+.box1,.box2{
+    border: 1px solid black ;
+    width: 400px;
+    height: 25px;
+    border-radius: 3px;
+}
+.btn{
+    border: 1px solid black;
+    width: 110px;
+    border-radius: 3px;
+    position: absolute;
+left: 550px;
+}
+.marquee{
+    color: blue;
+}
+.note{
+    color: red;
+    position: relative;
+    left: 90px;
+}
+.ssl{
+    position:relative;
+    left: 90px;
+}
+.list{
+    position: relative;
+    left:90px
+}
